@@ -36,6 +36,7 @@ $$
 $$
 \text{SA}(\text{LayerNorm}(\bm{X})), \quad 
 \text{Logits} = \bm{X}'' \bm{W}_{\text{out}} + \bm{B}_{\text{out}}
+
 $$
 # HGBERT-developers
 HGBERT is a High Generative Bidirectional Encoder AI. Which is under no ones license

@@ -1,7 +1,6 @@
 <script type="text/javascript" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-# Math
 $$
 \bm{X} \in \mathbb{R}^{B \times T \times C}, \quad 
 \bm{W}_Q, \bm{W}_K, \bm{W}_V, \bm{W}_E \in \mathbb{R}^{C \times d}
